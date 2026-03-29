@@ -1,75 +1,94 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   SIBGHATULLAH IQBAL — README.md              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:1e1b4b,100:312e81&height=280&section=header&text=SIBGHATULLAH&fontSize=75&fontColor=e0e7ff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Automation%20Architect&descAlignY=62&descSize=16&descColor=a5b4fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:020617,30:0f172a,70:1e1b4b,100:312e81&height=220&section=header&text=SIBGHATULLAH%20IQBAL&fontSize=60&fontColor=e0e7ff&animation=fadeIn&fontAlignY=48&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Computer%20Vision%20%7C%20Automation%20Architect&descAlignY=70&descSize=16&descColor=a5b4fc"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🤖+Building+Intelligent+Multi-Agent+Systems;🔗+RAG+Pipelines+%7C+LangChain+%7C+LangGraph+%7C+CrewAI;👁️+Computer+Vision+%7C+YOLOv11+%7C+OpenCV+%7C+MediaPipe;🚀+From+Research+to+Real-World+AI+Deployments;🎯+90%25%2B+Detection+Accuracy+%7C+30%25+Improved+Retrieval)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=818CF8&center=true&vCenter=true&repeat=true&width=860&lines=🤖+Building+Intelligent+Multi-Agent+Systems+from+Scratch;🔗+RAG+%7C+LangChain+%7C+LangGraph+%7C+CrewAI+%7C+AutoGen;👁️+YOLOv11+Computer+Vision+%7C+12%2B+FPS+Real-Time+Inference;🎙️+Voice+AI+%7C+LiveKit+%7C+Deepgram+STT%2FTTS+%7C+Groq+LLM;🏆+90%25%2B+Detection+%7C+%3E92%25+mAP+%7C+%2B30%25+RAG+Accuracy)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="mailto:sibghatullahiqbal629@gmail.com"><img src="https://img.shields.io/badge/Gmail-sibghatullahiqbal629-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Sibghat-629"><img src="https://img.shields.io/badge/GitHub-Sibghat--629-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-00897B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-6D28D9?style=for-the-badge&logo=circle&logoColor=white"/>
+<a href="mailto:sibghatullahiqbal629@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sibghatullahiqbal629-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/Sibghat-629">
+  <img src="https://img.shields.io/badge/GitHub-Sibghat--629-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/sibghatullah-iqbal">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/📍_Islamabad-Pakistan-00897B?style=for-the-badge"/>
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sibghat-629&color=6d28d9&style=flat-square&label=Profile+Views)](https://github.com/Sibghat-629)
-[![GitHub followers](https://img.shields.io/github/followers/Sibghat-629?style=flat-square&color=6d28d9&logo=github&label=Followers)](https://github.com/Sibghat-629?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Sibghat-629?style=flat-square&color=6d28d9&logo=github&label=Total+Stars)](https://github.com/Sibghat-629)
+<img src="https://komarev.com/ghpvc/?username=Sibghat-629&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Sibghat-629?style=for-the-badge&color=6d28d9&logo=github&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Sibghat-629?style=for-the-badge&color=6d28d9&logo=github&label=TOTAL+STARS"/>
+<img src="https://img.shields.io/badge/OPEN_TO-Collaborate-22c55e?style=for-the-badge&logo=handshake&logoColor=white"/>
 
 </div>
 
+<br/>
+
 ---
 
-<div align="center"><h2>⚡ WHO AM I</h2></div>
+## 🧬 Identity
 
 ```python
 #!/usr/bin/env python3
-# ─────────────────────────────────────────────────
-#  SIBGHATULLAH IQBAL — AI Engineer & Systems Architect
-# ─────────────────────────────────────────────────
+# ══════════════════════════════════════════════════════════════════════
+#  Sibghatullah Iqbal — AI Engineer & Intelligent Systems Architect
+#  BS Computer Science  |  IST Islamabad  |  Class of 2026
+# ══════════════════════════════════════════════════════════════════════
 
 class SibghatullahIqbal:
 
-    identity = {
-        "name"      : "Sibghatullah Iqbal",
-        "title"     : "AI Engineer | LLM Systems | Computer Vision | MLOps",
-        "location"  : "Islamabad, Pakistan 🇵🇰",
-        "email"     : "sibghatullahiqbal629@gmail.com",
-        "education" : "BS Computer Science — Institute of Space & Technology (2021–2026)",
+    # ── Core Identity ─────────────────────────────────────────────────
+    name       = "Sibghatullah Iqbal"
+    title      = "AI Engineer · LLM Systems · Computer Vision · MLOps"
+    location   = "Islamabad, Pakistan 🇵🇰"
+    email      = "sibghatullahiqbal629@gmail.com"
+    education  = "BS Computer Science — Institute of Space & Technology (2021–2026)"
+
+    # ── Domain Expertise ──────────────────────────────────────────────
+    specialisations = {
+        "LLM & Agentic AI"     : ["LangChain", "LangGraph", "CrewAI", "AutoGen", "LLAMA", "Groq"],
+        "RAG Systems"          : ["Agentic RAG", "Qdrant", "FAISS", "Chroma", "Vector DBs", "Fine-Tuning"],
+        "Computer Vision"      : ["YOLOv11", "YOLOv3", "OpenCV", "MediaPipe", "CUDA", "YOLO-Pose"],
+        "Voice AI"             : ["LiveKit", "Deepgram STT/TTS", "Real-Time Processing"],
+        "ML / DL"              : ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "Transfer Learning"],
+        "MLOps & Deployment"   : ["FastAPI", "MLflow", "Azure", "Arize Phoenix", "OpenTelemetry"],
+        "Automation"           : ["n8n", "WhatsApp API", "Slack API", "Gmail API", "Notion API"],
     }
 
-    expertise = [
-        "🤖 LLM-based Intelligent Systems (LangChain, LangGraph, CrewAI, AutoGen)",
-        "🔗 RAG Pipelines & Agentic RAG (Qdrant, FAISS, Chroma, Vector DBs)",
-        "👁️ Computer Vision (YOLOv11, YOLOv3, OpenCV, MediaPipe, CUDA)",
-        "🎙️ Real-time Voice AI (LiveKit, Deepgram STT/TTS, Groq LLM)",
-        "🔬 ML/DL (TensorFlow, PyTorch, Keras, scikit-learn)",
-        "☁️ MLOps & Deployment (FastAPI, MLflow, Azure, Arize Phoenix)",
-        "🔄 Automation & Workflows (n8n, Slack, WhatsApp, Gmail, Notion APIs)",
-    ]
-
-    achievements = {
-        "vehicle_detection_accuracy" : "90%+  — Signal IQ FYP (OpenCV + Arduino)",
-        "drone_detection_mAP"        : ">92%  — YOLOv3 CUDA Accelerated Pipeline",
-        "chatbot_retrieval_boost"    : "+30%  — RAG Chatbot (Optimised Embeddings)",
-        "fitness_tracker_fps"        : "12+ FPS — YOLOv11-Pose Real-Time Inference",
-        "multi_platform_integrations": "4 APIs — Slack, WhatsApp, Gmail, Notion",
+    # ── Real-World Achievements ────────────────────────────────────────
+    benchmarks = {
+        "vehicle_detection_accuracy" : "90%+   → Signal IQ FYP  (OpenCV + Arduino)",
+        "drone_detection_mAP"        : ">92%   → YOLOv3 Pipeline (CUDA GPU Accelerated)",
+        "rag_retrieval_boost"        : "+30%   → RAG Chatbot     (Optimised Embeddings)",
+        "fitness_inference_fps"      : "12+ FPS → AI Fitness Trainer (YOLOv11-Pose)",
+        "exercise_types_live"        : "12+    → Real-Time Detection & Form Correction",
+        "llm_observability"          : "Full   → Arize Phoenix + OpenTelemetry Tracing",
+        "multi_platform_deployments" : "4 APIs → Slack · WhatsApp · Gmail · Notion",
     }
 
-    current_focus = [
-        "Advanced Multi-Agent Architectures & Orchestration",
-        "LLM Optimization, QLORA & Quantization Techniques",
-        "Scalable AI Deployments on Cloud Infrastructure",
-        "LLM Observability with OpenTelemetry & Arize Phoenix",
+    # ── What I'm Building Right Now ────────────────────────────────────
+    current_work = [
+        "🏗️  Advanced multi-agent orchestration systems",
+        "⚡  QLORA fine-tuning & LLM quantisation pipelines",
+        "☁️  Scalable AI cloud deployments on Azure",
+        "🔭  LLM observability with Arize Phoenix + OpenTelemetry",
+        "🔗  Real-time voice AI systems with persistent memory",
     ]
 
     def introduce(self):
         return (
-            "Innovative AI Engineer passionate about building scalable, "
-            "research-driven solutions that bridge cutting-edge AI with real-world impact."
+            "Innovative AI Engineer who turns research-grade ideas into production-ready systems.\n"
+            "From 90%+ detection accuracy to real-time voice agents — I build AI that actually works."
         )
 
 me = SibghatullahIqbal()
@@ -78,38 +97,44 @@ print(me.introduce())
 
 ---
 
-<div align="center"><h2>🏢 PROFESSIONAL EXPERIENCE</h2></div>
+## 💼 Professional Experience
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 AI Intern — Siber Koza Alpha (NASTP)
-**📅 July 2025 – August 2025 &nbsp;|&nbsp; 📍 Rawalpindi, Pakistan**
+<h3>🔷 AI Engineer Intern</h3>
+<h4>Siber Koza Alpha · NASTP (National Aerospace & Technology Parks)</h4>
 
-> *National Aerospace & Technology Parks — Defence Sector AI*
+**📅 July 2025 – August 2025 &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Rawalpindi, Pakistan**
 
-- 🤖 Developed & deployed a full **AI-powered chatbot** in 8 weeks
-- 💬 Engineered **multi-step interaction handling** boosting query resolution accuracy
-- 🔗 Multi-platform integration across:
+> *Defence-sector AI research facility under Pakistan's aerospace authority*
 
-  ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+**What I built:**
+- 🤖 Designed & deployed a full production **AI-powered chatbot** in 8 weeks
+- 🔗 Achieved **multi-platform integration** — WhatsApp, Slack, Gmail, Notion
+- 🧠 Engineered **multi-step conversation handling** improving response accuracy
+- 📡 Built **real-time query routing** across enterprise productivity platforms
+
+**Stack:** LangChain · LangGraph · FastAPI · WhatsApp API · Slack API
 
 </td>
 <td width="50%" valign="top">
 
-### 🔷 AI Intern — TRYSOFT AI
-**📅 December 2025 – January 2026 &nbsp;|&nbsp; 📍 Islamabad, Pakistan**
+<h3>🔷 AI Engineer Intern</h3>
+<h4>TRYSOFT AI</h4>
 
-> *AI Product Company — Conversational AI & Backend Systems*
+**📅 December 2025 – January 2026 &nbsp;&nbsp;|&nbsp;&nbsp; 📍 Islamabad, Pakistan**
 
-- ⚡ Contributed to a **real-time AI interaction system** at scale
-- 🏗️ Built **conversational backend** with web integration
-- 🔄 Enhanced **system usability** and session memory management
-- 🌐 Integrated **web-facing AI solutions** with persistent state
+> *AI product company specialising in conversational AI & intelligent systems*
+
+**What I built:**
+- ⚡ Contributed to a **real-time AI interaction system** processing live user inputs at scale
+- 🏗️ Engineered **conversational backend** with full web integration
+- 💾 Implemented **interaction continuity** — persistent session state management
+- 🌐 Delivered **web-facing AI solutions** reducing response latency significantly
+
+**Stack:** Python · FastAPI · LLM APIs · WebSockets · Backend Integration
 
 </td>
 </tr>
@@ -117,28 +142,30 @@ print(me.introduce())
 
 ---
 
-<div align="center"><h2>🎓 EDUCATION</h2></div>
+## 🎓 Education
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="56%" valign="top">
 
-### 🏛️ Bachelor of Science in Computer Science
-**Institute of Space and Technology (IST) — Islamabad**
-📅 November 2021 – January 2026
+### 🏛️ BS Computer Science
+**Institute of Space and Technology (IST) — Islamabad, Pakistan**
+📅 *November 2021 – January 2026*
 
-> Major: AI/ML, Computer Vision & Intelligent Systems
-> FYP: **Signal IQ** — AI-Powered Adaptive Traffic Control
+- Major concentration: AI/ML · Computer Vision · Intelligent Systems
+- Final Year Project: **Signal IQ** — AI-powered adaptive traffic control
+- Relevant coursework: Deep Learning · NLP · Data Structures · Algorithms · OS · Networks
 
 </td>
-<td width="45%" valign="top">
+<td width="44%" valign="top">
 
 ### 🏫 FSC Pre-Engineering
-**Fazaia Inter College Nurkhan — Rawalpindi**
-📅 July 2019 – July 2021
+**Fazaia Inter College Nurkhan — Rawalpindi, Pakistan**
+📅 *July 2019 – July 2021*
 
-> Mathematics · Physics · Computer Science
-> Foundation that launched an AI/ML specialisation
+- Subjects: Mathematics · Physics · Computer Science
+- Strong analytical foundation driving AI/ML specialisation
+- Consistently top-tier in mathematics and logical reasoning
 
 </td>
 </tr>
@@ -146,330 +173,335 @@ print(me.introduce())
 
 ---
 
-<div align="center"><h2>🚀 FEATURED PROJECTS</h2></div>
-
----
-
-### 🚦 Signal IQ — AI-Powered Smart Traffic Control *(Final Year Project)*
-> **Adaptive traffic signal controller using real-time computer vision**
+## 🚀 Project Portfolio
 
 <table>
-<tr><td width="65%">
+<tr>
+<td width="50%" valign="top">
 
-- 🔬 Real-time vehicle detection pipeline using **Python + OpenCV** for dynamic light timing
-- 🎛️ Interfaced **Arduino hardware** achieving **90%+ vehicle detection accuracy**
-- 🏙️ Validated for high-traffic **municipal environments** via extensive test scenarios
-- ⚡ Adaptive timing logic for significantly improved **urban traffic flow efficiency**
+### 🚦 Signal IQ — Smart Traffic Control
+**`Final Year Project`**
 
-</td><td width="35%" align="center">
+> Adaptive AI-powered traffic signal controller using real-time computer vision
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-<br/>**Accuracy: `90%+`**
+**Key Results:**
+- ✅ **90%+ vehicle detection accuracy**
+- ✅ Arduino hardware interface for real-time control
+- ✅ Extensively tested in simulated high-traffic environments
+- ✅ Dynamically optimises signal timing for urban flow
 
-</td></tr>
-</table>
+**Stack:** `Python` `OpenCV` `Arduino` `Computer Vision`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎙️ Property Advisor Voice Agent
-> **Real-time AI voice assistant for property search with persistent memory**
 
-<table>
-<tr><td width="65%">
+> Full-stack real-time voice AI for property search with persistent memory
 
-- 🎤 Built with **LiveKit + Deepgram STT/TTS** for real-time voice interaction
-- 🧠 Powered by **Groq LLM (Llama 3.3 70B)** with persistent memory & identity resolution
-- 🔍 Dynamic multi-criteria search over feature-engineered **SQLite database**
-- 📡 **Arize Phoenix + OpenTelemetry** for full LLM observability
-- 🛡️ Hallucination detection, DeepEval faithfulness testing & concurrency benchmarking
+**Key Results:**
+- ✅ Sub-second voice response via **LiveKit + Deepgram**
+- ✅ **Groq LLM (Llama 3.3 70B)** with identity resolution
+- ✅ **Arize Phoenix + OpenTelemetry** LLM observability
+- ✅ Hallucination detection + DeepEval faithfulness testing
 
-</td><td width="35%" align="center">
+**Stack:** `FastAPI` `LiveKit` `Deepgram` `Groq` `SQLite` `Arize`
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-<br/>**LiveKit · Groq · Deepgram**
-
-</td></tr>
-</table>
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Customer Support RAG Chatbot
-> **Multi-platform persistent chatbot with +30% retrieval accuracy improvement**
 
-<table>
-<tr><td width="65%">
+> Multi-platform persistent chatbot with +30% retrieval improvement
 
-- 🔗 **LangChain + LangGraph + Qdrant** vector database for context-aware semantic search
-- 📈 Contextual accuracy improved by **+30%** via optimised embeddings & prompt engineering
-- 💾 Full **persistent memory management** across multi-turn conversations
-- 🔌 Deployed simultaneously across **Slack, WhatsApp, Gmail, Notion APIs**
+**Key Results:**
+- ✅ **+30% contextual accuracy** via optimised embeddings
+- ✅ Deployed on **4 platforms simultaneously** (Slack · WhatsApp · Gmail · Notion)
+- ✅ Persistent memory across full conversation sessions
+- ✅ Semantic search via **Qdrant** vector database
 
-</td><td width="35%" align="center">
+**Stack:** `LangChain` `LangGraph` `Qdrant` `Python` `4x APIs`
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-<br/>**Accuracy Boost: `+30%`**
-**Platforms: `4 APIs`**
-
-</td></tr>
-</table>
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 💪 AI Fitness Trainer
-> **Autonomous real-time exercise tracker with LLM coaching at 12+ FPS**
 
-<table>
-<tr><td width="65%">
+> Real-time autonomous exercise tracker with LLM-powered adaptive coaching
 
-- 👁️ **YOLOv11-Pose** activity discovery at **12+ FPS** inference
-- 🏋️ Detects & counts **12+ exercise types** with real-time form correction
-- 🧠 **Groq LLM (Llama-3.3)** for personalised workout summaries
-- 📊 Dynamic performance analytics with **Plotly** visualisations
+**Key Results:**
+- ✅ **12+ FPS** real-time YOLOv11-Pose inference
+- ✅ Detects & counts **12+ exercise types** live
+- ✅ Groq LLM generates personalised workout summaries
+- ✅ Real-time form correction + adaptive coaching feedback
 
-</td><td width="35%" align="center">
+**Stack:** `YOLOv11` `Groq LLM` `Plotly` `Python` `OpenCV`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-<br/>**FPS: `12+` &nbsp; Exercises: `12+`**
-
-</td></tr>
-</table>
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛸 Drone Detection System
-> **High-precision drone recognition with CUDA GPU acceleration & >92% mAP**
 
-<table>
-<tr><td width="65%">
+> High-precision real-time drone recognition with CUDA GPU acceleration
 
-- 🔬 Fine-tuned **YOLOv3** on Pascal VOC + custom-annotated datasets
-- 📊 Achieved **>92% mAP** with transfer learning + data augmentation
-- ⚡ **CUDA GPU-accelerated** OpenCV pipeline with optimised NMS
-- 🎯 Low-latency detection for security-critical environments
+**Key Results:**
+- ✅ **>92% mAP** on Pascal VOC + custom dataset
+- ✅ CUDA GPU acceleration with optimised NMS
+- ✅ Transfer learning + data augmentation pipeline
+- ✅ Production-ready low-latency inference
 
-</td><td width="35%" align="center">
+**Stack:** `YOLOv3` `OpenCV` `CUDA` `PyTorch` `Transfer Learning`
 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-<br/>**mAP: `>92%`**
+</td>
+<td width="50%" valign="top">
 
-</td></tr>
+### 📄 ProFile Match — Resume AI Engine
+
+> NLP-powered resume-job matching API with hybrid semantic scoring
+
+**Key Results:**
+- ✅ Hybrid scoring: **TF-IDF + Sentence Transformers + spaCy**
+- ✅ Skill gap detection + alignment analysis
+- ✅ Automated recruiter-ready recommendation reports
+- ✅ Full PDF parsing → normalisation → scoring pipeline
+
+**Stack:** `FastAPI` `spaCy` `Sentence Transformers` `TF-IDF` `PDF`
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📄 ProFile Match — NLP Resume Matching Engine
-> **AI-powered resume-job alignment API with hybrid semantic scoring**
-
-<table>
-<tr><td width="65%">
-
-- ⚙️ **FastAPI + TF-IDF + Sentence Transformers + spaCy** powered ResumeIQ
-- 🔍 Hybrid scoring: TF-IDF + embeddings + skill overlap in weighted pipeline
-- 📋 Automated **recruiter-ready recommendations** for candidate evaluation
-- 🧩 4-stage pipeline: PDF parsing → normalisation → scoring → output
-
-</td><td width="35%" align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-<br/>**Pipeline: `4-stage NLP`**
-
-</td></tr>
-</table>
-
----
-
-<div align="center"><h2>🛠️ COMPLETE TECH ARSENAL</h2></div>
-
-### 🧠 LLM / AI Agents / Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLAMA](https://img.shields.io/badge/LLAMA-7957D5?style=for-the-badge&logo=meta&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/Agentic_RAG-6D28D9?style=for-the-badge&logoColor=white)
-
-### 👁️ Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logoColor=black)
-![YOLOv3](https://img.shields.io/badge/YOLOv3-00CED1?style=for-the-badge&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### 🔬 Machine Learning / Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-### 📊 Data Science & Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logoColor=white)
-
-### 🌐 Web, API & Voice
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-00D4FF?style=for-the-badge&logoColor=black)
-![Deepgram](https://img.shields.io/badge/Deepgram-101010?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 💻 Languages & DevOps
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-### 🔌 Integrations & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-<div align="center"><h2>📊 GITHUB STATS & ANALYTICS</h2></div>
+## 🛠️ Complete Tech Arsenal
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sibghat-629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&border_radius=16&card_width=400&custom_title=📈+GitHub+Statistics" />
-&nbsp;&nbsp;
-<img height="180px" src="https://nirzak-streak-stats.vercel.app/?user=Sibghat-629&theme=tokyonight&hide_border=true&border_radius=16&card_width=400" />
+### ⚡ Core Languages
+[![Skills](https://skillicons.dev/icons?i=py,cpp,java,js,html,cs&perline=6)](https://skillicons.dev)
+
+### 🤖 AI / ML / DL
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi,flask&perline=6)](https://skillicons.dev)
+
+### 🗄️ Databases & Cloud
+[![Skills](https://skillicons.dev/icons?i=mysql,sqlite,firebase,azure,vercel,git&perline=6)](https://skillicons.dev)
+
+### 🔧 Tools & Platforms
+[![Skills](https://skillicons.dev/icons?i=github,arduino,notion,jira,vscode,linux&perline=6)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**🧠 LLM Frameworks & Agentic AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![LLAMA](https://img.shields.io/badge/LLAMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/Agentic_RAG-6D28D9?style=for-the-badge&logoColor=white)
+
+**🎙️ Voice AI & Realtime**
+
+![LiveKit](https://img.shields.io/badge/LiveKit-00D4FF?style=for-the-badge&logoColor=black)
+![Deepgram](https://img.shields.io/badge/Deepgram-101010?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**📊 Data Science & Analytics**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logoColor=white)
+
+**🔌 Integrations**
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Deep Analytics
+
+<div align="center">
+
+<!-- ─── Row 1: Main Stats + Streak ─────────────────────────────────────── -->
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Sibghat-629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&border_radius=12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=📈+Sibghat's+GitHub+Stats"/>
+&nbsp;
+<img height="185" src="https://nirzak-streak-stats.vercel.app/?user=Sibghat-629&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly"/>
 
 <br/><br/>
 
-<img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibghat-629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&border_radius=16&card_width=420&custom_title=🗣️+Language+Distribution&langs_count=10" />
+<!-- ─── Row 2: Profile Summary Cards (5-panel deep dive) ────────────────── -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sibghat-629&theme=tokyonight"/>
+&nbsp;
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sibghat-629&theme=tokyonight"/>
+&nbsp;
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sibghat-629&theme=tokyonight"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Sibghat-629&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sibghat-629&theme=tokyonight"/>
+&nbsp;
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sibghat-629&theme=tokyonight&utcOffset=5"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sibghat-629&bg_color=1a1b27&color=818cf8&line=6d28d9&point=e0e7ff&area=true&area_color=6d28d933&hide_border=true&border_radius=16&custom_title=📅+Contribution+Timeline" />
+<!-- ─── Row 3: Top Languages (Donut) ─────────────────────────────────────── -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibghat-629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&border_radius=12&langs_count=10&custom_title=🗣️+Language+Distribution"/>
 
 <br/><br/>
 
+<!-- ─── Row 4: Trophies (Full Width) ──────────────────────────────────────── -->
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Sibghat-629&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=8"/>
+
+<br/><br/>
+
+<!-- ─── Row 5: Top Pinned Repos ───────────────────────────────────────────── -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=Signal-IQ&theme=tokyonight&hide_border=true&border_radius=12"/>
+&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=Property-Advisor-Voice-Agent&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=Customer-Support-Chatbot&theme=tokyonight&hide_border=true&border_radius=12"/>
+&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=AI-Fitness-Trainer&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<br/><br/>
+
+<!-- ─── Row 6: Contribution Activity Graph ───────────────────────────────── -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sibghat-629&bg_color=1a1b27&color=818cf8&line=6d28d9&point=e0e7ff&area=true&area_color=312e8133&hide_border=true&border_radius=12&custom_title=📅+365-Day+Contribution+Timeline"/>
+
+<br/><br/>
+
+<!-- ─── Row 7: Snake Animation (requires GitHub Action) ──────────────────── -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibghat-629/Sibghat-629/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibghat-629/Sibghat-629/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" width="95%" src="https://raw.githubusercontent.com/Sibghat-629/Sibghat-629/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sibghat-629/Sibghat-629/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sibghat-629/Sibghat-629/output/github-contribution-grid-snake.svg"/>
+  <img alt="🐍 Contribution Snake" width="98%"
+    src="https://raw.githubusercontent.com/Sibghat-629/Sibghat-629/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-<div align="center"><h2>🏆 PERFORMANCE HIGHLIGHTS</h2></div>
+## 🏆 Performance Benchmarks
 
 <div align="center">
 
-| 🎯 Metric | 📊 Result | 🛠️ Project |
-|:---|:---:|:---|
-| Vehicle Detection Accuracy | **`90%+`** | Signal IQ FYP (OpenCV + Arduino) |
-| Drone Detection mAP | **`>92%`** | YOLOv3 CUDA GPU Accelerated |
-| RAG Retrieval Improvement | **`+30%`** | Customer Support Chatbot |
-| Real-Time Inference Speed | **`12+ FPS`** | AI Fitness Trainer (YOLOv11-Pose) |
-| Exercise Types Recognised | **`12+`** | AI Fitness Trainer |
-| Simultaneous API Integrations | **`4 Platforms`** | RAG Chatbot (Slack · WhatsApp · Gmail · Notion) |
-| LLM Observability Stack | **`Full Tracing`** | Property Advisor (Arize Phoenix + OTEL) |
-| AI Internship Deliverable | **`8 Weeks`** | Siber Koza Alpha — NASTP |
+| 🎯 Achievement | 📊 Metric | 🛠️ Project | 🔧 Tech |
+|:---|:---:|:---|:---|
+| Vehicle Detection | **`90%+`** accuracy | Signal IQ — FYP | OpenCV + Arduino + Python |
+| Drone Recognition | **`>92%`** mAP | Drone Detection System | YOLOv3 + CUDA GPU + NMS |
+| RAG Retrieval | **`+30%`** improvement | Customer Support Chatbot | Qdrant + Embeddings + LangChain |
+| Fitness Inference | **`12+ FPS`** real-time | AI Fitness Trainer | YOLOv11-Pose + Groq LLM |
+| Exercise Detection | **`12+`** types live | AI Fitness Trainer | Pose Estimation + Python |
+| Platform Coverage | **`4 APIs`** simultaneous | RAG Chatbot | Slack · WhatsApp · Gmail · Notion |
+| LLM Observability | **Full tracing** | Property Voice Agent | Arize Phoenix + OpenTelemetry |
+| Hallucination Guard | **Active** | Property Voice Agent | DeepEval + Faithfulness Testing |
+| Internship Delivery | **8 weeks** | Siber Koza Alpha (NASTP) | Defence-sector AI Chatbot |
 
 </div>
 
 ---
 
-<div align="center"><h2>📜 CERTIFICATIONS</h2></div>
+## 📜 Certifications & Learning
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center" width="33%">
 
-🏅 **IBM Data Science Professional**
+**🏅 IBM Data Science Professional**
 <br/>
 ![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-<br/>*End-to-end Data Science Pipeline*
+<br/>
+*End-to-end data science pipeline, ML workflows, Python ecosystem*
 
 </td>
 <td align="center" width="33%">
 
-🏅 **Build RAG Applications**
+**🏅 Build RAG Applications**
 <br/>
 ![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-<br/>*Retrieval Augmented Generation*
+<br/>
+*Retrieval-Augmented Generation, vector stores, semantic search*
 
 </td>
 <td align="center" width="33%">
 
-🏅 **AI Engineer Core Track**
+**🏅 AI Engineer Core Track**
 <br/>
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-<br/>*LLM Eng · RAG · QLORA · Agents*
+<br/>
+*LLM Engineering · RAG · QLORA · Agents · Fine-Tuning*
 
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
 
-<div align="center"><h2>🤝 LET'S BUILD SOMETHING EXTRAORDINARY</h2></div>
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  Open to collaboration on:                                   ║
-║  🤖  LLM Applications & Multi-Agent AI Systems              ║
-║  🔗  RAG Pipelines & Intelligent Automation                  ║
-║  👁️  Computer Vision & Real-Time AI Systems                 ║
-║  🚀  Research-Driven AI & Startup Opportunities             ║
-╚══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                    OPEN TO OPPORTUNITIES                          ║
+║  ─────────────────────────────────────────────────────────────    ║
+║  🤖  LLM Applications & Multi-Agent AI Systems                   ║
+║  🔗  RAG Pipelines · Intelligent Automation · n8n Workflows       ║
+║  👁️  Computer Vision & Real-Time AI Solutions                    ║
+║  🔬  Research-Driven AI Projects & Startups                       ║
+║  ☁️  Scalable AI Deployments & MLOps Architectures               ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_Email-sibghatullahiqbal629%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sibghatullahiqbal629@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-Sibghat--629-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sibghat-629)
+[![Email](https://img.shields.io/badge/📧_Email_Me-sibghatullahiqbal629%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sibghatullahiqbal629@gmail.com)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sibghatullah-iqbal)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sibghat-629)
 
 <br/>
 
-> *"The best AI systems aren't just intelligent — they're purposeful, scalable, and built for the real world."*
+> *"The best AI systems aren't just intelligent — they're purposeful, production-ready, and built for the real world."*
 
 <br/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:020617&height=140&section=footer&fontSize=14&fontColor=a5b4fc&text=Thanks+for+visiting+•+Let%27s+connect+and+build+together+🤝&fontAlignY=70&animation=fadeIn"/>
+<!-- ─── FOOTER ─────────────────────────────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,40:1e1b4b,80:0f172a,100:020617&height=150&section=footer&text=Thanks+for+visiting!+Let%27s+build+the+future+of+AI+together+🚀&fontSize=14&fontColor=a5b4fc&fontAlignY=65&animation=fadeIn"/>
