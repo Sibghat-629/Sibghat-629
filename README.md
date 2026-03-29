@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:020617,30:0f172a,70:1e1b4b,100:312e81&height=220&section=header&text=SIBGHATULLAH%20IQBAL&fontSize=60&fontColor=e0e7ff&animation=fadeIn&fontAlignY=48&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Computer%20Vision%20%7C%20Automation%20Architect&descAlignY=70&descSize=16&descColor=a5b4fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:020617,30:0f172a,70:1e1b4b,100:312e81&height=220&section=header&text=SIBGHATULLAH%&fontSize=60&fontColor=e0e7ff&animation=fadeIn&fontAlignY=48&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Computer%20Vision%20%7C%20Automation%20Architect&descAlignY=70&descSize=16&descColor=a5b4fc"/>
 
 <br/>
 
