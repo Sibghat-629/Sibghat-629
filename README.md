@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   SIBGHATULLAH IQBAL — README.md              -->
+<!--                   SIBGHATULLAH — README.md              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -18,7 +18,7 @@
 <a href="https://github.com/Sibghat-629">
   <img src="https://img.shields.io/badge/GitHub-Sibghat--629-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;
-<a href="https://linkedin.com/in/sibghatullah-iqbal">
+<a href="https://www.linkedin.com/in/sibghatullah-0b5837272/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <img src="https://img.shields.io/badge/📍_Islamabad-Pakistan-00897B?style=for-the-badge"/>
@@ -48,7 +48,7 @@
 class SibghatullahIqbal:
 
     # ── Core Identity ─────────────────────────────────────────────────
-    name       = "Sibghatullah Iqbal"
+    name       = "Sibghatullah"
     title      = "AI Engineer · LLM Systems · Computer Vision · MLOps"
     location   = "Islamabad, Pakistan 🇵🇰"
     email      = "sibghatullahiqbal629@gmail.com"
@@ -61,8 +61,7 @@ class SibghatullahIqbal:
         "Computer Vision"      : ["YOLOv11", "YOLOv3", "OpenCV", "MediaPipe", "CUDA", "YOLO-Pose"],
         "Voice AI"             : ["LiveKit", "Deepgram STT/TTS", "Real-Time Processing"],
         "ML / DL"              : ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "Transfer Learning"],
-        "MLOps & Deployment"   : ["FastAPI", "MLflow", "Azure", "Arize Phoenix", "OpenTelemetry"],
-        "Automation"           : ["n8n", "WhatsApp API", "Slack API", "Gmail API", "Notion API"],
+        "MLOps & Deployment"   : ["FastAPI", "MLflow", "Azure", "Arize Phoenix", "OpenTelemetry"]
     }
 
     # ── Real-World Achievements ────────────────────────────────────────
@@ -164,8 +163,6 @@ print(me.introduce())
 📅 *July 2019 – July 2021*
 
 - Subjects: Mathematics · Physics · Computer Science
-- Strong analytical foundation driving AI/ML specialisation
-- Consistently top-tier in mathematics and logical reasoning
 
 </td>
 </tr>
@@ -185,7 +182,7 @@ print(me.introduce())
 > Adaptive AI-powered traffic signal controller using real-time computer vision
 
 **Key Results:**
-- ✅ **90%+ vehicle detection accuracy**
+- ✅ **98%+ vehicle detection accuracy**
 - ✅ Arduino hardware interface for real-time control
 - ✅ Extensively tested in simulated high-traffic environments
 - ✅ Dynamically optimises signal timing for urban flow
