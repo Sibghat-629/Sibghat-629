@@ -407,11 +407,23 @@ Intelligent resume-to-job-description matching API with skill gap analysis and a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sibghat-629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&border_radius=10&custom_title=Sibghat's+GitHub+Stats"/>
+### ━━ Overview ━━
+
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Sibghat-629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&border_radius=10&show=reviews,prs_merged,prs_merged_percentage&custom_title=📊+Overall+Stats"/>
 &nbsp;
-<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=Sibghat-629&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="195" src="https://nirzak-streak-stats.vercel.app/?user=Sibghat-629&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly&fire=DD6387&ring=6366f1&currStreakLabel=6366f1"/>
 
 <br/><br/>
+
+### ━━ Languages ━━
+
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibghat-629&theme=tokyonight&hide_border=true&layout=donut&border_radius=10&langs_count=10&custom_title=🗣️+Language+Distribution"/>
+&nbsp;
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibghat-629&theme=tokyonight&hide_border=true&layout=compact&border_radius=10&langs_count=12&custom_title=📋+Language+Breakdown&include_all_commits=true&count_private=true"/>
+
+<br/><br/>
+
+### ━━ Profile Deep-Dive ━━
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sibghat-629&theme=tokyonight"/>
 &nbsp;
@@ -427,29 +439,39 @@ Intelligent resume-to-job-description matching API with skill gap analysis and a
 
 <br/><br/>
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibghat-629&theme=tokyonight&hide_border=true&layout=donut&border_radius=10&langs_count=10&custom_title=Language+Distribution"/>
+### ━━ Achievements & Trophies ━━
 
-<br/><br/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Sibghat-629&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=8"/>
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Sibghat-629&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=4"/>
 
 </div>
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Repository Showcase
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=Signal-IQ&theme=tokyonight&hide_border=true&border_radius=10"/>
+### ━━ AI · LLM · Agentic Systems ━━
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=Customer-Support-Chatbot&theme=tokyonight&hide_border=true&border_radius=10&show_owner=true"/>
 &nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=Property-Advisor-Voice-Agent&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=Property-Advisor-Voice-Agent&theme=tokyonight&hide_border=true&border_radius=10&show_owner=true"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=Customer-Support-Chatbot&theme=tokyonight&hide_border=true&border_radius=10"/>
+### ━━ Computer Vision ━━
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=Signal-IQ&theme=tokyonight&hide_border=true&border_radius=10&show_owner=true"/>
 &nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=AI-Fitness-Trainer&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=AI-Fitness-Trainer&theme=tokyonight&hide_border=true&border_radius=10&show_owner=true"/>
+
+<br/><br/>
+
+### ━━ More Projects ━━
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=Drone-Detection-System&theme=tokyonight&hide_border=true&border_radius=10&show_owner=true"/>
+&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibghat-629&repo=ProFile-Match&theme=tokyonight&hide_border=true&border_radius=10&show_owner=true"/>
 
 </div>
 
@@ -459,9 +481,21 @@ Intelligent resume-to-job-description matching API with skill gap analysis and a
 
 <div align="center">
 
+### ━━ 365-Day Timeline ━━
+
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sibghat-629&bg_color=1a1b27&color=818cf8&line=6366f1&point=e0e7ff&area=true&area_color=312e8144&hide_border=true&border_radius=10&custom_title=365-Day+Contribution+Timeline"/>
 
 <br/><br/>
+
+### ━━ Streak Calendar ━━
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sibghat-629&bg_color=0d1117&color=6366f1&line=818cf8&point=c7d2fe&area=true&hide_border=true&radius=8&custom_title=Commits+%E2%80%94+Dark+Mode"/>
+&nbsp;
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sibghat-629&bg_color=1a1b27&color=a5f3fc&line=22d3ee&point=ffffff&area=true&hide_border=true&radius=8&custom_title=Commits+%E2%80%94+Neon+Mode"/>
+
+<br/><br/>
+
+### ━━ Contribution Snake ━━
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibghat-629/Sibghat-629/output/github-contribution-grid-snake-dark.svg"/>
@@ -470,6 +504,8 @@ Intelligent resume-to-job-description matching API with skill gap analysis and a
 </picture>
 
 </div>
+
+> 💡 **Note:** The contribution snake requires a GitHub Action in your profile repo. Add `.github/workflows/snake.yml` to generate it automatically every 12 hours.
 
 ---
 
