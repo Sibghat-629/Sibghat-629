@@ -108,9 +108,9 @@ class Stack:
 
 ---
 
-## 🏆 Impact Portfolio (High-Performance Showcase)
+## 🚀 MISSION-CRITICAL PROJECTS (High-Performance Showcase)
 
-| 🚀 **SIGNAL IQ** | 🎙️ **PROPERTY VOICE AGENT** | 🤖 **CUSTOMER AGENT** |
+| 🚦 **SIGNAL IQ** | 🎙️ **PROPERTY VOICE AGENT** | 🤖 **CUSTOMER AGENT** |
 | :--- | :--- | :--- |
 | **Adaptive Traffic Control** | **Real-Time Property AI** | **Multi-Platform RAG** |
 | ✅ **98%+ Detection Accuracy** | ✅ **<500ms Latency** | ✅ **+30% Retrieval Boost** |
@@ -145,6 +145,22 @@ class Stack:
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibghat-629&theme=tokyonight&hide_border=true&layout=donut&border_radius=10&langs_count=10&custom_title=STACK+DISTRIBUTION"/>
 &nbsp;
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sibghat-629&theme=tokyonight&utcOffset=5"/>
+
+<br/><br/>
+
+### ━━ 🔍 Deep-Dive Insights (Advanced Analytics) ━━
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sibghat-629&theme=tokyonight"/>
+&nbsp;
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sibghat-629&theme=tokyonight"/>
+&nbsp;
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sibghat-629&theme=tokyonight"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sibghat-629&theme=tokyonight"/>
+&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sibghat-629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&border_radius=10&show=reviews,prs_merged,prs_merged_percentage&custom_title=📊+DETAILED+REPO+METRICS"/>
 
 </div>
 
@@ -223,7 +239,7 @@ class Stack:
 
 ## 🤝 Let's Architect the Future
 
-[![Email](https://img.shields.io/badge/📧_CONNECT_VIA_EMAIL-sibghatullahiqbal629%40gmail.com-818cf8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sibghatullahiqbal629@gmail.com)
+[![Email](https://img.shields.io/badge/📧_CONNECT_VIA_EMAIL-818cf8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sibghatullahiqbal629@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN_PROFILE-161b22?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sibghatullah-0b5837272/)
 
