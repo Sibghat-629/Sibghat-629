@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:1e293b&height=300&section=header&text=SIBGHATULLAHL&fontSize=70&fontColor=818cf8&animation=twinkling&fontAlignY=40&desc=Architecting+the+Future+of+Agentic+AI+%E2%80%A2+Production-Grade+LLM+Systems&descAlignY=62&descSize=20&descColor=94a3b8&stroke=4f46e5&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:1e293b&height=300&section=header&text=SIBGHATULLAH&fontSize=70&fontColor=818cf8&animation=twinkling&fontAlignY=40&desc=Architecting+the+Future+of+Agentic+AI+%E2%80%A2+Production-Grade+LLM+Systems&descAlignY=62&descSize=20&descColor=94a3b8&stroke=4f46e5&strokeWidth=2"/>
 
 </div>
 
