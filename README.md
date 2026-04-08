@@ -91,7 +91,7 @@ class Stack:
 | **LangChain / LangGraph** | **YOLO (v3 to v11)** | **LiveKit / WebSockets** |
 | **CrewAI / AutoGen** | **OpenCV / MediaPipe** | **Deepgram (STT / TTS)** |
 | **Vector DBs (Qdrant/Chroma)** | **PyTorch / TensorFlow** | **FastAPI Streaming** |
-| **Fine-Tuning (QLoRA/GGUF)** | **CUDA Optimization** | **Voice VAD / Silence Detection** |
+| **Fine-Tuning (QLoRA/GGUF)** 
 | _Level: Architecture Lead_ | _Level: Senior Specialist_ | _Level: Implementation Lead_ |
 
 </div>
