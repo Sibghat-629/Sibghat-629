@@ -174,7 +174,7 @@ class Stack:
 
 ### 🛡️ AI Engineer Intern
 **Siber Koza Alpha · NASTP**
-📅 Jul – Aug 2025 | Rawalpindi, PK
+📅 Jul – Sep 2025 | Rawalpindi, PK
 
 *National Aerospace & Technology Parks (Defence Sector)*
 
@@ -187,7 +187,7 @@ class Stack:
 
 ### 💡 AI Engineer Intern
 **TRYSOFT AI**
-📅 Dec 2025 – Jan 2026 | Islamabad, PK
+📅 Dec 2025 – Feb 2026 | Islamabad, PK
 
 *Specializing in Conversational AI & Production Systems*
 
