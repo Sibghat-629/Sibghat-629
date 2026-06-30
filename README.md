@@ -101,15 +101,7 @@ class Stack:
 <tr>
 <td width="55%" valign="top">
 
-| Category | Score | Grade |
-| :--- | :---: | :---: |
-| 🧩 Multi-Agent Orchestration | 96/100 | `S` |
-| 📚 RAG & Vector Retrieval | 94/100 | `S` |
-| 👁️ Computer Vision | 91/100 | `S` |
-| 🎙️ Voice & Real-Time AI | 88/100 | `A+` |
-| ☁️ Production & MLOps | 87/100 | `A+` |
-| ⚡ Fine-Tuning & Quantization | 89/100 | `A+` |
-| **🏆 OVERALL** | **91/100** | **`S-TIER`** |
+
 
 > **Tier legend:** `S` 90–100 Architect-level · `A+` 85–89 Advanced · `A` 80–84 Proficient · `B` 70–79 Competent
 
@@ -152,27 +144,7 @@ class Engineer:
 </tr>
 </table>
 
-```bash
-$ whoami
-> sibghatullah_iqbal :: ai_systems_architect
 
-$ ./run_diagnostics.sh --target=production
-
-[✓] Multi-Agent Orchestration .......... ONLINE   (96%)
-[✓] RAG / Vector Retrieval .............. ONLINE   (94%)
-[✓] Computer Vision Inference ........... ONLINE   (91%)
-[✓] Voice / Real-Time Pipeline ........... ONLINE   (88%)
-[✓] MLOps & Observability ................ ONLINE   (87%)
-[✓] Fine-Tuning & Quantization ........... ONLINE   (89%)
-[!] Open to Opportunities ................ TRUE
-
-$ grade --profile --strict
-OVERALL SCORE : 91 / 100
-RANK          : S-TIER (Top Percentile)
-STATUS        : PRODUCTION-READY ✅
-```
-
----
 
 ## 🏗️ Technical Expertise Hubs
 
@@ -261,7 +233,7 @@ STATUS        : PRODUCTION-READY ✅
 │  🔗  MCP-Native Tooling — Gmail / Calendar / Drive Agent Orchestration  │
 │  ⚡  QLoRA Fine-Tuning & Quantization (GGUF/GPTQ) for Edge Deployment   │
 │  📐  Hierarchical Planning for Autonomous Multi-Step Reasoning          │
-│  ☁️  Azure AI Cloud Deployments with Auto-Scaling Inference Pipelines   │
+│  
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
