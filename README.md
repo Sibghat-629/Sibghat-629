@@ -263,9 +263,9 @@ class Engineer:
 </td>
 <td width="50%" valign="top">
 
-### 💡 AI Engineer Intern
-**TRYSOFT AI**
-📅 Dec 2025 – Feb 2026 | Islamabad, PK
+### 💡 Full Stack AI Developer (part Time , Remote)
+**Sirovista**
+📅 Jan 2026 – June 2026 | Lahore, PK
 
 *Specializing in Conversational AI & Production Systems*
 
