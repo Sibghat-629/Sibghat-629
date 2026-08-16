@@ -1,368 +1,262 @@
-<!-- ============================================================
-     SIBGHATULLAH IQBAL — GitHub Profile README v2.0
-     AI Architect · Multi-Agent Systems · LLM Systems · MLOps
-     ============================================================ -->
-
 <div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> SIBGHATULLAH
+AI/ML Engineer · LLM Systems Architect · Agentic AI Specialist · Computer Vision Engineer
+mailto:sibghatullahiqbal629@gmail.com
+tel:+923465040502
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:1e293b&height=300&section=header&text=SIBGHATULLAH&fontSize=70&fontColor=818cf8&animation=twinkling&fontAlignY=40&desc=Architecting+the+Future+of+Agentic+AI+%E2%80%A2+Production-Grade+LLM+Systems&descAlignY=62&descSize=20&descColor=94a3b8&stroke=4f46e5&strokeWidth=2"/>
-
+https://github.com/Sibghat-629
 </div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Professional Summary
+AI/ML Engineer with hands-on experience building production-grade LLM-powered systems, agentic pipelines, and computer vision applications. Proficient across the full AI development stack — from data preprocessing and model fine-tuning to multi-agent orchestration and real-time deployment.
+Core Competencies:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="16" height="16" /> LLM & Agentic AI: LangChain, LangGraph, CrewAI, OpenAI Agents SDK, AutoGen, BeeAI, MCP, A2A
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Search" width="16" height="16" /> RAG & Vector Databases: RAG pipelines, Qdrant, FAISS, Pinecone, Hugging Face, LLaMA Fine-Tuning, QLoRA
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera.png" alt="Camera" width="16" height="16" /> Computer Vision: OpenCV, YOLO (training + inference), MediaPipe, Pillow
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="16" height="16" /> MLOps & Cloud: Azure, Vercel, Docker, Redis, WebSockets, OpenTelemetry, Arize Phoenix, MLflow
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="16" height="16" /> Data Science: TensorFlow, PyTorch, Keras, scikit-learn, NumPy, pandas, Matplotlib, Seaborn, Plotly
+Delivered Solutions:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Chatbot" width="16" height="16" /> Production-ready RAG chatbots with persistent memory & multi-platform deployment
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Microphone" width="16" height="16" /> Real-time voice AI agents with low-latency STT/TTS & conversational intelligence
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" alt="Stopwatch" width="16" height="16" /> Adaptive traffic signal controllers with 90%+ detection accuracy & 35% wait-time reduction
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="16" height="16" /> Multi-agent SaaS planning systems with 6-agent orchestration pipelines
+Passionate about building scalable, research-driven AI solutions that solve real-world problems.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Professional Experience
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop" width="20" height="20" /> Full Stack AI Developer
+Sirovista · Remote · Project-Based Part Time / Freelance · Jan 2026 – May 2026
+Architected and deployed AI-powered SaaS products and multi-agent systems for enterprise product validation and business process automation.
+Key Contributions:
+Table
+Domain	Impact	Technologies
+Multi-Agent Systems	Designed product validation pipelines using structured workflow orchestration	LangGraph, LangChain, LLMs
+RAG & AI Apps	Built production-ready apps with vector DBs, prompt engineering, tool-calling agents	RAG, Qdrant, FAISS, Pinecone, OpenAI API
+MLOps	Developed MLflow workflows for experiment tracking, model versioning & deployment	MLflow, Docker, Azure
+Integrations	Connected AI systems to external APIs and enterprise services	FastAPI, REST APIs, WebSockets
+Achievements:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="16" height="16" /> Delivered production-grade AI applications with end-to-end RAG pipelines
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="16" height="16" /> Automated business processes through intelligent multi-agent orchestration
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="16" height="16" /> Enabled reproducible ML pipelines with comprehensive experiment tracking & model lifecycle management
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="20" height="20" /> AI Intern
+Siber Koza Alpha (NASTP) · Rawalpindi, Pakistan · Jul 2025 – Dec 2025
+Developed and deployed AI-powered chatbots, real-time voice agents, and MCP-based applications at Pakistan's premier aerospace & technology park.
+Key Contributions:
+Table
+Domain	Impact	Technologies
+Conversational AI	Deployed context-aware chatbots with multi-step reasoning & document retrieval	LangChain, LangGraph, RAG, Vector DBs
+Voice AI Agents	Built real-time voice agents with natural interactions & low-latency processing	LiveKit, Deepgram STT/TTS, Groq LLMs
+MCP Architecture	Designed custom MCP servers for secure tool calling & external system integration	Model Context Protocol, FastAPI
+Achievements:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="16" height="16" /> Enabled context-aware conversations with persistent memory across multi-turn dialogues
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="16" height="16" /> Achieved low-latency speech recognition & synthesis for natural voice interactions
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="16" height="16" /> Implemented secure agentic workflows via custom MCP servers and tools
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation" width="25" height="25" /> Education
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Book.png" alt="Book" width="20" height="20" /> Bachelor of Science in Computer Science
+Institute of Space Technology (IST) · Islamabad, Pakistan · Nov 2021 – Jan 2026
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="16" height="16" /> Final Year Project: Signal IQ — Adaptive Traffic Signal Controller with real-time vehicle detection
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="16" height="16" /> Achieved 90%+ vehicle detection accuracy across multi-condition scenarios
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="16" height="16" /> Reduced average wait times by ~35% in simulated urban traffic
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Book" width="20" height="20" /> FSc Pre-Engineering
+Fazaia Inter College Nur Khan · Rawalpindi, Pakistan · Jul 2019 – Jul 2021
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Technical Skills
+Programming Languages
+ Python 
 
-<br/>
+ C++ 
 
+ JavaScript 
+
+ TypeScript 
+
+ HTML5 
+
+ CSS3 
+
+ SQL 
+LLM & Agentic AI
+ LangChain 
+
+ LangGraph 
+
+ CrewAI 
+
+ OpenAI 
+
+ AutoGen 
+
+ BeeAI 
+
+ MCP 
+
+ A2A 
+RAG & Vector Databases
+ RAG 
+
+ Qdrant 
+
+ FAISS 
+
+ Pinecone 
+
+ HuggingFace 
+
+ LLaMA 
+
+ QLoRA 
+Machine Learning & Deep Learning
+ TensorFlow 
+
+ PyTorch 
+
+ Keras 
+
+ scikit-learn 
+
+ MLflow 
+Computer Vision
+ OpenCV 
+
+ YOLO 
+
+ MediaPipe 
+
+ Pillow 
+Web Development
+ React 
+
+ Next.js 
+
+ Node.js 
+
+ FastAPI 
+
+ Flask 
+
+ Streamlit 
+
+ Gradio 
+
+ Bootstrap 
+
+ Tailwind CSS 
+Cloud, MLOps & Infrastructure
+ Azure 
+
+ Vercel 
+
+ Docker 
+
+ Redis 
+
+ WebSockets 
+
+ OpenTelemetry 
+
+ Arize Phoenix 
+Data Science & Analytics
+ NumPy 
+
+ pandas 
+
+ Matplotlib 
+
+ Seaborn 
+
+ Plotly 
+
+ Folium 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" height="25" /> Featured Projects
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Vertical%20Traffic%20Light.png" alt="Traffic" width="20" height="20" /> Signal IQ — Adaptive Traffic Signal Controller
+Final Year Project · Computer Vision · IoT Integration · Real-time Systems
+An intelligent traffic management system that uses real-time vehicle detection to dynamically optimize signal timings, reducing urban congestion through AI-driven decision making.
+Architecture & Implementation:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="16" height="16" /> Real-time Vehicle Detection: Engineered detection algorithms using Python and OpenCV for live traffic analysis
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microchip.png" alt="Microchip" width="16" height="16" /> Hardware Integration: Interfaced Python software with Arduino for physical signal control
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="16" height="16" /> Performance Metrics:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="14" height="14" /> 90%+ vehicle detection accuracy
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="14" height="14" /> ~35% reduction in average wait times
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="14" height="14" /> Validated across low-light and high-density traffic scenarios
+Tech Stack: Python · OpenCV · Arduino · IoT · Real-time Processing
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" alt="Chat" width="20" height="20" /> Customer Support RAG Chatbot
+Production-Ready · RAG · Multi-Platform · Persistent Memory
+A production-grade retrieval-augmented generation chatbot with context-aware semantic search, persistent memory, and deployment across multiple communication platforms.
+Architecture & Implementation:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Search" width="16" height="16" /> Semantic Search: Built with LangChain, LangGraph, and Qdrant vector database for intelligent document retrieval
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="16" height="16" /> Persistent Memory: Enabled context-aware conversations with memory across multi-turn dialogues
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="16" height="16" /> Multi-Platform Deployment: Integrated with Slack, WhatsApp, Gmail, and Notion APIs
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="16" height="16" /> Performance Optimization:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="14" height="14" /> 30% improvement in contextual retrieval accuracy
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Check%20Mark%20Button.png" alt="Check" width="14" height="14" /> Optimized embedding strategies and structured prompt engineering
+Tech Stack: LangChain · LangGraph · Qdrant · OpenAI API · Slack API · WhatsApp API · Gmail API · Notion API
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="20" height="20" /> CrewSaaS — Autonomous Multi-Agent Product Manager
+SaaS · Multi-Agent · Real-time Orchestration · Full Stack
+An autonomous multi-agent SaaS planning system that orchestrates 6 specialized AI agents to generate complete product specifications from market research to revenue modeling.
+Architecture & Implementation:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="16" height="16" /> 6-Agent Pipeline:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="14" height="14" /> Market Research Agent
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Map.png" alt="Map" width="14" height="14" /> Feature Mapping Agent
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="14" height="14" /> System Architecture Agent
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="14" height="14" /> UX Strategy Agent
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Money" width="14" height="14" /> Revenue Modeling Agent
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="14" height="14" /> Product Specification Agent
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning.png" alt="Lightning" width="16" height="16" /> Real-time Orchestration: Implemented via Redis and WebSockets for live agent coordination
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="16" height="16" /> LLM Backbone: GPT-4o powering all agent reasoning and generation
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" alt="Stopwatch" width="16" height="16" /> Performance: End-to-end SaaS product specification generation in under 3 minutes
+Tech Stack: CrewAI · FastAPI · React · Next.js · PostgreSQL · Redis · WebSockets · GPT-4o
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Flexed%20Biceps.png" alt="Fitness" width="20" height="20" /> AI Fitness Trainer
+Computer Vision · Pose Estimation · Real-time · LLM Integration
+A real-time AI fitness tracker that detects exercises, counts reps, corrects form, and delivers personalized workout summaries using computer vision and large language models.
+Architecture & Implementation:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Running%20Shoe.png" alt="Shoe" width="16" height="16" /> Real-time Pose Detection: Engineered with YOLOv11-Pose achieving 12+ FPS inference
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="16" height="16" /> Exercise Recognition: Supports 10+ exercise types with high-precision rep counting
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="16" height="16" /> Performance Analytics: Integrated Groq LLM (Llama-3.3) and Plotly for dynamic workout summaries
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Warning.png" alt="Warning" width="16" height="16" /> Form Correction: Real-time pose analysis for exercise form feedback
+Tech Stack: YOLOv11-Pose · Python · Groq LLM · Llama-3.3 · Plotly · OpenCV · MediaPipe
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/House.png" alt="House" width="20" height="20" /> Property Advisor Voice AI Agent
+Voice AI · Real-time · LLM Observability · Database Integration
+A real-time voice AI property advisor with persistent memory, identity resolution, and dynamic multi-criteria property search — built with full LLM observability and hallucination detection.
+Architecture & Implementation:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Microphone" width="16" height="16" /> Voice Pipeline: LiveKit + Deepgram STT/TTS + Groq LLM (Llama 3.3 70B) for natural voice interactions
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="16" height="16" /> Persistent Memory: Identity resolution and conversation history across sessions
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Search" width="16" height="16" /> Dynamic Search: Multi-criteria property search over SQLite database
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" alt="Eye" width="16" height="16" /> LLM Observability: Integrated Arize Phoenix with OpenTelemetry for full tracing
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="16" height="16" /> Hallucination Detection: DeepEval-based faithfulness testing with concurrency
+Tech Stack: LiveKit · Groq LLM · Llama 3.3 70B · Deepgram · FastAPI · SQLite · Arize Phoenix · OpenTelemetry · DeepEval
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Resume" width="20" height="20" /> ResumeIQ — NLP-Powered Resume-Job Matching API
+NLP · API · Semantic Search · Automation
+An intelligent resume-job matching API that performs hybrid semantic scoring, skill gap detection, and structured alignment analysis to generate recruiter-ready candidate evaluations.
+Architecture & Implementation:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Search" width="16" height="16" /> Hybrid Scoring: Combines TF-IDF, Sentence Transformers embeddings, and skill overlap analysis
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="16" height="16" /> Multi-Stage Pipeline:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page" width="14" height="14" /> PDF parsing and text extraction
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Key" width="14" height="14" /> Keyword normalization and entity recognition
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scales.png" alt="Scales" width="14" height="14" /> Weighted semantic scoring (TF-IDF + embeddings + skill overlap)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="14" height="14" /> Automated recruiter-ready evaluation reports
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="16" height="16" /> NLP Engine: spaCy for entity extraction and Sentence Transformers for semantic similarity
+Tech Stack: FastAPI · TF-IDF · Sentence Transformers · spaCy · Python · NLP
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> Certifications
+Table
+Certification	Issuer	Focus Area
+Data Science Professional Certificate	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Square.png" alt="IBM" width="16" height="16" /> IBM	Data Science fundamentals, Python, SQL, Machine Learning
+Build RAG Applications	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Square.png" alt="IBM" width="16" height="16" /> IBM	Retrieval-Augmented Generation, Vector Databases, LLM Integration
+AI Engineer Core Track: LLM Engineering, RAG, QLoRA & Agents	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Purple%20Square.png" alt="Udemy" width="16" height="16" /> Udemy	LLM Engineering, RAG Systems, Quantized Fine-Tuning, Agentic AI
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> Impact Metrics
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=1000&lines=🧠+Building+Production-Ready+Multi-Agent+Systems;🏗️+Architecting+Advanced+RAG+Architectures;👁️+Real-Time+CV+Inference+%40+12%2B+FPS;🎙️+Sub-Second+Latency+Voice+AI+Agents;🤖+Shipping+Self-Hosted+Autonomous+Coding+Agents;🚀+Scaling+AI+from+Notebooks+to+Production)](https://git.io/typing-svg)
-
+Table
+Metric	Value	Context
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" alt="Time" width="16" height="16" /> Traffic Wait Time Reduction	~35%	Signal IQ — Adaptive Traffic Controller
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" alt="Target" width="16" height="16" /> Vehicle Detection Accuracy	90%+	Multi-condition scenarios (low-light, high-density)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Search" width="16" height="16" /> RAG Retrieval Improvement	30%	Customer Support Chatbot — embedding optimization
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning.png" alt="Speed" width="16" height="16" /> SaaS Spec Generation	< 3 min	CrewSaaS — 6-agent end-to-end pipeline
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Running%20Shoe.png" alt="Speed" width="16" height="16" /> Pose Detection FPS	12+ FPS	AI Fitness Trainer — YOLOv11-Pose real-time inference
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Agents" width="16" height="16" /> Multi-Agent Systems	6 Agents	CrewSaaS — specialized agent orchestration
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Flexed%20Biceps.png" alt="Exercises" width="16" height="16" /> Exercise Types Supported	10+	AI Fitness Trainer — comprehensive workout coverage
 </div>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" /> Let's Connect
 <div align="center">
-
-| [**Portfolio**](https://github.com/Sibghat-629?tab=repositories) | [**LinkedIn**](https://www.linkedin.com/in/sibghatullah-0b5837272/) | [**Email**](mailto:sibghatullahiqbal629@gmail.com) | [**Resume**](mailto:sibghatullahiqbal629@gmail.com) | [**Blog**](https://github.com/Sibghat-629) |
-| :---: | :---: | :---: | :---: | :---: |
-
+mailto:sibghatullahiqbal629@gmail.com
+tel:+923465040502
+https://github.com/Sibghat-629
 </div>
-
-<br/>
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sibghat-629&color=818cf8&style=for-the-badge&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Sibghat-629?style=for-the-badge&color=818cf8&logo=github&label=NETWORK"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=for-the-badge&logo=statuspage&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PROFILE_GRADE-S--TIER-818cf8?style=for-the-badge&logo=star&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BUILD-PASSING-22c55e?style=flat-square&logo=githubactions&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TESTS-ALL%20GREEN-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/DEPLOY-PRODUCTION--READY-22c55e?style=flat-square&logo=vercel&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/UPTIME-99.9%25-22c55e?style=flat-square&logo=statuspage&logoColor=white"/>
-
-</div>
-
----
-
-## ⚡ Executive Summary
-
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
-I am an **AI Architect** focused on bridging the gap between cutting-edge research and mission-critical production systems. I don't just build models; I architect **Agentic Ecosystems** that solve complex, real-world problems autonomously.
-
-My expertise lies in **Multi-Agent Orchestration**, **Advanced RAG (Retrieval-Augmented Generation)**, and **Real-Time Edge AI**. Whether it's designing defence-sector intelligence at **NASTP** or building sub-second voice agents, my goal is always the same: **Deliver Impact.**
-
-> [!IMPORTANT]
-> **Core Focus:** Scale, Reliability, and Observability in AI Systems.
-
-```yaml
-Current Role: AI Engineer (Specializing in Agents & LLMs)
-Education:    BS Computer Science @ IST Islamabad (2021-2026)
-Location:     Islamabad, PK (Open to Global Remote)
-Interests:    Hierarchical Planning, LLM Quantization, MLOps, Local Inference
-```
-
-</td>
-<td width="35%" valign="top">
-
-```python
-class Stack:
-    def __init__(self):
-        self.brain   = ["Multi-Agent", "RAG"]
-        self.vision  = ["YOLOv11", "Pose"]
-        self.voice   = ["LiveKit", "Deepgram"]
-        self.ops     = ["Arize", "MLflow"]
-        self.edge    = ["Ollama", "GGUF"]
-        self.status  = "Shipping 🚀"
-
-    def mission(self):
-        return "AI that works in production."
-```
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sibghat-629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&border_radius=10&show=reviews,prs_merged,prs_merged_percentage&custom_title=📊+PERFORMANCE+SCORECARD"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 AI Engineer Scorecard <sub><i>(self-assessed, recalibrated quarterly)</i></sub>
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-
-
-> **Tier legend:** `S` 90–100 Architect-level · `A+` 85–89 Advanced · `A` 80–84 Proficient · `B` 70–79 Competent
-
-```python
-class Engineer:
-    """Self-assessed competency model."""
-
-    def __init__(self):
-        self.scores = {
-            "Multi-Agent Orchestration":  96,
-            "RAG & Vector Retrieval":     94,
-            "Computer Vision":            91,
-            "Voice & Real-Time AI":       88,
-            "Production & MLOps":         87,
-            "Fine-Tuning & Quantization": 89,
-        }
-
-    @property
-    def overall(self) -> float:
-        return sum(self.scores.values()) / len(self.scores)
-
-    def grade(self) -> str:
-        return "S-Tier" if self.overall >= 90 else "A-Tier"
-
-
->>> Engineer().overall
-90.83
->>> Engineer().grade()
-'S-Tier'
-```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img width="100%" src="https://quickchart.io/chart?bkg=transparent&w=560&h=380&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Multi-Agent%5CnOrchestration%22%2C%22RAG%20%26%5CnRetrieval%22%2C%22Computer%5CnVision%22%2C%22Voice%20%26%5CnReal-Time%20AI%22%2C%22Production%20%26%5CnMLOps%22%2C%22Fine-Tuning%20%26%5CnQuantization%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skill%20Score%22%2C%22data%22%3A%5B96%2C94%2C91%2C88%2C87%2C89%5D%2C%22backgroundColor%22%3A%22rgba%28129%2C140%2C248%2C0.25%29%22%2C%22borderColor%22%3A%22%23818cf8%22%2C%22pointBackgroundColor%22%3A%22%23818cf8%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%2C%22pointRadius%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22r%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22%23334155%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23334155%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%23cbd5e1%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%2364748b%22%2C%22backdropColor%22%3A%22transparent%22%2C%22stepSize%22%3A20%2C%22showLabelBackdrop%22%3Afalse%7D%2C%22suggestedMin%22%3A0%2C%22suggestedMax%22%3A100%7D%7D%7D%7D" alt="Skill Radar Chart"/>
-
-<sub>Live competency radar — six core domains</sub>
-
-</td>
-</tr>
-</table>
-
-
-
-## 🏗️ Technical Expertise Hubs
-
-<div align="center">
-
-| 🤖 **AGENTIC AI & LLMs** | 👁️ **COMPUTER VISION** | 🎙️ **VOICE & REAL-TIME** |
-| :--- | :--- | :--- |
-| **LangChain / LangGraph** | **YOLO (v3 to v11)** | **LiveKit / WebSockets** |
-| **CrewAI / AutoGen** | **OpenCV / MediaPipe** | **Deepgram (STT / TTS)** |
-| **Vector DBs (Qdrant/Chroma)** | **PyTorch / TensorFlow** | **FastAPI Streaming** |
-| **Fine-Tuning (QLoRA/GGUF)** | **CUDA Acceleration** | **Groq Inference** |
-| **MCP (Model Context Protocol)** | | |
-| _Level: Architecture Lead_ | _Level: Senior Specialist_ | _Level: Implementation Lead_ |
-
-</div>
-
-### ━━ Proficiency Breakdown ━━
-
-<div align="center">
-
-| Skill | Proficiency |
-| :--- | :--- |
-| Multi-Agent Orchestration | ![96%](https://progress-bar.dev/96?width=220&color=818cf8) |
-| RAG & Vector Retrieval | ![94%](https://progress-bar.dev/94?width=220&color=818cf8) |
-| Computer Vision | ![91%](https://progress-bar.dev/91?width=220&color=818cf8) |
-| Voice & Real-Time AI | ![88%](https://progress-bar.dev/88?width=220&color=6366f1) |
-| Production & MLOps | ![87%](https://progress-bar.dev/87?width=220&color=6366f1) |
-| Fine-Tuning & Quantization | ![89%](https://progress-bar.dev/89?width=220&color=6366f1) |
-
-</div>
-
-<div align="center">
-
-### ━━ Core Languages ━━
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) &nbsp; [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) &nbsp; [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) &nbsp; [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp; [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp; [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-
-### ━━ Platform & DevOps ━━
-[![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev) &nbsp; [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) &nbsp; [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp; [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) &nbsp; [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) &nbsp; [![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🚀 MISSION-CRITICAL PROJECTS (High-Performance Showcase)
-
-| 🚦 **SIGNAL IQ** | 🎙️ **PROPERTY VOICE AGENT** | 🤖 **CUSTOMER AGENT** |
-| :--- | :--- | :--- |
-| **Adaptive Traffic Control** | **Real-Time Property AI** | **Multi-Platform RAG** |
-| ✅ **98%+ Detection Accuracy** | ✅ **<500ms Latency** | ✅ **+30% Retrieval Boost** |
-| 🛠️ OpenCV, Arduino, Python | 🛠️ LiveKit, Groq, Deepgram | 🛠️ LangGraph, Qdrant |
-| [View Repo →](https://github.com/Sibghat-629/Signal-IQ) | [View Repo →](https://github.com/Sibghat-629/Property-Advisor-Voice-Agent) | [View Repo →](https://github.com/Sibghat-629/Customer-Support-Chatbot) |
-
-| 💪 **AI FITNESS TRAINER** | 🛸 **DRONE DETECTION** | 📄 **PROFILE MATCH** |
-| :--- | :--- | :--- |
-| **Live Form Correction** | **CUDA-Accelerated CV** | **Resume Ranking Engine** |
-| ✅ **12+ LIVE FPS** | ✅ **>92% mAP Score** | ✅ **Hybrid Skill Scoring** |
-| 🛠️ YOLOv11-Pose, Groq | 🛠️ YOLOv3, CUDA, PyTorch | 🛠️ spaCy, Transformers |
-| [View Repo →](https://github.com/Sibghat-629/AI-Fitness-Trainer) | [View Repo →](https://github.com/Sibghat-629/Drone-Detection-System) | [View Repo →](https://github.com/Sibghat-629/ProFile-Match) |
-
-| 🧩 **MCP_BOT — AGENTIC CLI** | 🗂️ **MCP TOOLS DASHBOARD** |
-| :--- | :--- |
-| **Multi-Turn Tool-Use Agent** | **Unified Productivity Control Plane** |
-| ✅ Web Search + Sandboxed Exec + File I/O | ✅ Gmail · Calendar · Drive via MCP |
-| 🛠️ Anthropic API, Python, Tool-Use Loop | 🛠️ MCP Protocol, Web UI |
-| [View Repos →](https://github.com/Sibghat-629?tab=repositories) | [View Repos →](https://github.com/Sibghat-629?tab=repositories) |
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20SYSTEMS%20SHIPPED-8%2B-818cf8?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/DOMAINS%20COVERED-CV%20%C2%B7%20VOICE%20%C2%B7%20AGENTS-818cf8?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🔭 Active Research & Development
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  🏗️  Self-Hosted Autonomous Coding Agent — Agentic Loop on Claude API   │
-│  ⚙️  Local LLM Inference — Ollama + qwen2.5:7b on CPU-Only Edge HW      │
-│  🔗  MCP-Native Tooling — Gmail / Calendar / Drive Agent Orchestration  │
-│  ⚡  QLoRA Fine-Tuning & Quantization (GGUF/GPTQ) for Edge Deployment   │
-│  📐  Hierarchical Planning for Autonomous Multi-Step Reasoning          │
-│  
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ AI Engineer Intern
-**Siber Koza Alpha · NASTP**
-📅 Jul – Sep 2025 | Rawalpindi, PK
-
-*National Aerospace & Technology Parks (Defence Sector)*
-
-- 🤖 **End-to-End Chatbot:** Architected a production-ready system integrated with WhatsApp, Slack, Gmail, and Notion.
-- 🔗 **Intelligent Routing:** Built real-time query routing across enterprise productivity platforms.
-- 🧠 **Context Optimization:** Improved response accuracy by 25% via LangGraph memory management.
-
-`LangGraph` `Multi-Agent` `Enterprise Integrations`
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 Full Stack AI Developer (part Time , Remote)
-**Sirovista**
-📅 Jan 2026 – June 2026 | Lahore, PK
-
-*Specializing in Conversational AI & Production Systems*
-
-- ⚡ **Interaction Engine:** Built an engine processing live user inputs at scale with WebSocket integration.
-- 🏗️ **State Management:** Designed persistent session logic for complex multi-turn conversations.
-- 🌐 **Latency Optimization:** Reduced end-to-end response time by 40% through async pipeline processing.
-
-`WebSockets` `Async Pipelines` `Conversational AI`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Timeline |
-| :--- | :--- | :---: |
-| BS Computer Science | IST Islamabad | 2021 – 2026 |
-
-</div>
-
----
-
-## 📈 Advanced Analytics Dashboard
-
-<div align="center">
-
-### ━━ Developer Activity & Streaks ━━
-
-<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Sibghat-629&bg_color=0f172a&color=818cf8&line=6366f1&point=e0e7ff&area=true&area_color=312e8144&hide_border=true&border_radius=10&custom_title=365-DAY+CONTRIBUTION+TIMELINE"/>
-<br/>
-<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=Sibghat-629&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly&fire=DD6387&ring=818cf8&currStreakLabel=818cf8"/>
-&nbsp;
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=Sibghat-629&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=4"/>
-
-<br/>
-
-### ━━ Engineering Linguistics ━━
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibghat-629&theme=tokyonight&hide_border=true&layout=donut&border_radius=10&langs_count=10&custom_title=STACK+DISTRIBUTION"/>
-&nbsp;
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sibghat-629&theme=tokyonight&utcOffset=5"/>
-
-<br/><br/>
-
-### ━━ 🔍 Deep-Dive Insights (Advanced Analytics) ━━
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sibghat-629&theme=tokyonight"/>
-&nbsp;
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sibghat-629&theme=tokyonight"/>
-&nbsp;
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sibghat-629&theme=tokyonight"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sibghat-629&theme=tokyonight"/>
-&nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sibghat-629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&border_radius=10&show=reviews,prs_merged,prs_merged_percentage&custom_title=📊+DETAILED+REPO+METRICS"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sibghat-629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&border_radius=10&custom_title=🧮+OVERALL+GITHUB+METRICS"/>
-
-</div>
-
----
-
-## 🐍 Contribution Map
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibghat-629/Sibghat-629/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibghat-629/Sibghat-629/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" width="98%" src="https://raw.githubusercontent.com/Sibghat-629/Sibghat-629/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Architect the Future
-
-[![Email](https://img.shields.io/badge/📧_CONNECT_VIA_EMAIL-818cf8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sibghatullahiqbal629@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN_PROFILE-161b22?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sibghatullah-0b5837272/)
-
-<br/>
-
-> *"The most powerful AI isn't just intelligent—it's production-ready, reliable, and built to solve real-world problems."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e293b&height=150&section=footer&text=Thanks+for+Visiting+%E2%80%94+Keep+Innovating+%F0%9F%9A%80&fontSize=16&fontColor=818cf8&fontAlignY=65&animation=fadeIn"/>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="16" height="16" /> Open to opportunities in AI/ML Engineering, LLM Systems, Agentic AI, and Computer Vision <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="16" height="16" />
+"Building scalable, research-driven AI solutions that solve real-world problems."
 </div>
