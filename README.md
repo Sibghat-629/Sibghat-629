@@ -138,7 +138,7 @@ I'm an **AI/ML Engineer** who builds production-grade LLM systems — not demos.
 <td>🧩 <b>Full Stack AI Developer</b><br/><sub>Project-Based / Freelance</sub></td>
 <td>Sirovista</td>
 <td>01/2026 – 05/2026</td>
-<td>Remote · Lahore, PK</td>
+<td>Remote  Lahore, PK</td>
 </tr>
 <tr>
 <td>🤖 <b>AI Intern</b></td>
